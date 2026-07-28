@@ -13,4 +13,4 @@
 
 <br clear="both">
 
-<img src="https://i.pinimg.com/736x/64/cf/8d/64cf8d372052b9a09a4603e737bf910a.jpg" width="100%" alt="banner" />
+![snake gif](https://github.com/euteamolavinia/euteamolavinia/blob/output/github-snake-dark.svg)
